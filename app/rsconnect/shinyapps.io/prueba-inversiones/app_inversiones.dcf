@@ -1,0 +1,12 @@
+name: app_inversiones
+title: app_inversiones
+username:
+account: prueba-inversiones
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3037765
+bundleId: 3759805
+url: https://prueba-inversiones.shinyapps.io/app_inversiones/
+when: 1603140304.04245
+asMultiple: FALSE
+asStatic: FALSE
